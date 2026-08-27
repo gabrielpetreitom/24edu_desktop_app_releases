@@ -1,1 +1,1 @@
-# 24edu_desktop_app_releases
+## Release-uri pt aplicatia 24edu desktop
